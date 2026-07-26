@@ -1,0 +1,61 @@
+#Item Definition File created by MapEditor
+objs
+18000, KINGS_BLD07, KINGS_BLD0, 299, 0
+18001, LODGS_BLD07, KINGS_BLD0, 750, 0
+18002, int_banya, int_banya, 299, 0
+907, backpack3, dynamic, 50, 0
+908, backpack4, dynamic, 50, 0
+909, backpack5, dynamic, 50, 0
+910, kepka5gucci, dynamic, 50, 0
+911, nike1, dynamic, 50, 0
+912, sumkagucci1, dynamic, 50, 0
+913, supreme1, dynamic, 50, 0
+914, kepka2russia, dynamic, 50, 0
+915, o4ko2,  dynamic, 50, 0
+916, sumka1, dynamic, 50, 0
+917, o4ko3,  dynamic, 50, 0
+918, guccibackp1, dynamic, 50, 0
+919, kepka3spartak, dynamic, 50, 0
+920, lui1, dynamic, 50, 0
+921, kepka1black, dynamic, 50, 0
+922, o4ki1, dynamic, 50, 0
+923, kepka4cska, dynamic, 50, 0
+924, o4ko1, dynamic, 50, 0
+925, o4ko4, dynamic, 50, 0
+926, guccibackpacp2, dynamic, 50, 0
+967, gitara1, dynamic, 150, 0
+968, gitara2, dynamic, 150, 0
+969, gitara3, dynamic, 150, 0
+970, hos_mask5, dynamic, 150, 0
+971, hos_mask6, dynamic, 150, 0
+972, hos_mask7, dynamic, 150, 0
+973, hos_mask8, dynamic, 150, 0
+974, hos_mask9, dynamic, 150, 0
+975, hos_mask10, dynamic, 150, 0
+976, hospital_mask1, dynamic, 150, 0
+977, hospital_mask2, dynamic, 150, 0
+978, hospital_mask3BR, dynamic, 150, 0
+979, skate1, dynamic, 150, 0
+980, skate2, dynamic, 150, 0
+981, skate3, dynamic, 150, 0
+982, skates4, dynamic, 150, 0
+983, hospital_mask4BRw, dynamic, 150, 0
+984, gsumka4, dynamic, 150, 0
+985, a_watchb, dynamic, 150, 0
+986, a_watchp, dynamic, 150, 0
+987, gsumka1, dynamic, 150, 0
+988, gsumka2, dynamic, 150, 0
+989, gsumka3, dynamic, 150, 0
+990, wach3, dynamic, 150, 0
+991, gsumka5, dynamic, 150, 0
+992, gsumka6, dynamic, 150, 0
+993, gsumka7, dynamic, 150, 0
+994, wach1, dynamic, 150, 0
+995, wach2, dynamic, 150, 0
+end
+tobj
+end
+2dfx
+end
+
+

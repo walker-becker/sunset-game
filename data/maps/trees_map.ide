@@ -1,0 +1,90 @@
+# by Pavel_Play
+objs
+#RUS:
+#Модификация Криминальная Россия переносит нас из штата Сан Андреас в Россию, представлены основные города Южный, Арзамас, Батырево...
+#ENG:
+#Modification Criminal Russia takes us from the state of San Andreas to Russia, represented by the main cities of Yuzhny, Arzamas, Batyrevo...
+15002, BR_Trees_2b, rip, 50, 0
+15003, BR_Trees_3, rip, 50, 0
+15004, BR_Trees_4vb, rip, 50, 0
+15005, BR_Trees_1, rip, 50, 0
+#
+15006, OBR_Trees_2b, rip, 750, 2138116
+15007, OBR_Trees_3, rip, 750, 2138116
+15008, OBR_Trees_4vb, rip, 750, 2097152
+15009, OBR_Trees_1, rip, 750, 0
+##################
+16852, DrevoBum_00, rip, 50, 0
+16853, DrevoBum_01, rip, 50, 0
+16854, DrevoBum_02, rip, 50, 0
+16855, DrevoBum_03, rip, 50, 0
+16863, TreeCRB_n1, rip, 50, 0
+16864, DrevoBum_04, rip, 50, 0
+#
+16873, MDrevoBum_00, rip, 500, 2138116
+16874, MDrevoBum_01, rip, 500, 2138116
+16875, MDrevoBum_02, rip, 500, 2138116
+16876, MDrevoBum_03, rip, 500, 2138116
+16884, MTreeCRB_n1, rip, 600,  2138116
+16885, MDrevoBum_04, rip, 500, 2138116
+#
+16905, Tree4, FarmFull, 50, 0
+16906, Tree2, FarmFull, 50, 0
+16907, Tree3, FarmFull, 50, 0
+16911, Tree1, FarmFull, 50, 0
+16925, ATree4, FarmFull, 750, 0
+16926, ATree2, FarmFull, 750, 0
+16927, ATree3, FarmFull, 750, 0
+16931, ATree1, FarmFull, 750, 0
+#
+14559, TreeeOst00, rip, 50, 0
+14560, TreeeOst01, rip, 50, 0
+14561, TreeeOst02, rip, 50, 0
+14562, TreeeOst03, rip, 50, 0
+14563, TreeeOst04, rip, 50, 0
+14564, TreeeOst05, rip, 50, 0
+14565, TreeeOst06, rip, 50, 0
+14566, TreeeOst07, rip, 50, 0
+14567, TreeeOst08, rip, 50, 0
+14568, TreeeOst09, rip, 50, 0
+14569, TreeeOst10, rip, 50, 0
+14570, TreeeOst11, rip, 50, 0
+14571, TreeeOst12, rip, 50, 0
+14572, TreeeOst13, rip, 50, 0
+14573, TreeeOst14, rip, 50, 0
+14574, TreeeOst15, rip, 50, 0
+14575, TreeeOst16, rip, 50, 0
+14576, TreeeOst17, rip, 50, 0
+14577, TreeeOst18, rip, 50, 0
+14578, TreeeOst19, rip, 50, 0
+14579, TreeeOst20, rip, 50, 0
+14580, TreeeOst21, rip, 50, 0
+14581, TreeeOst22, rip, 50, 0
+14582, ATreeeOst00, rip, 750, 4
+14583, ATreeeOst01, rip, 750, 4
+14584, ATreeeOst02, rip, 750, 4
+14585, ATreeeOst03, rip, 750, 4
+14586, ATreeeOst04, rip, 750, 4
+14587, ATreeeOst05, rip, 750, 4
+14588, ATreeeOst06, rip, 750, 4
+14589, ATreeeOst07, rip, 750, 4
+14590, ATreeeOst08, rip, 750, 4
+14591, ATreeeOst09, rip, 750, 4
+14592, ATreeeOst10, rip, 750, 4
+14593, ATreeeOst11, rip, 750, 4
+14594, ATreeeOst12, rip, 750, 4
+14595, ATreeeOst13, rip, 750, 4
+14596, ATreeeOst14, rip, 750, 4
+14597, ATreeeOst15, rip, 750, 4
+14598, ATreeeOst16, rip, 750, 4
+14599, ATreeeOst17, rip, 750, 4
+14600, ATreeeOst18, rip, 750, 4
+14601, ATreeeOst19, rip, 750, 4
+14602, ATreeeOst20, rip, 750, 4
+14603, ATreeeOst21, rip, 750, 4
+14604, ATreeeOst22, rip, 750, 4
+end
+tobj
+end
+
+

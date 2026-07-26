@@ -1,0 +1,198 @@
+#Item Definition File created by MapEditor
+objs
+9000, was_bri_gen_bld, az_br, 120, 0
+9001, LOD_bri_gen_bld, az_bldlo, 1500, 0
+9002, was_ent_bd999, az_br, 120, 0
+9003, LOD_ent_bd999, az_bldlo, 1500, 0
+9004, was_brd_cr, hibrd, 150, 0
+9005, was_brd_mid, hibrd, 150, 0
+9006, was_brd_end01, hibrd, 150, 0
+9007, was_brd_end02, hibrd, 150, 0
+9008, LOD_brd_cr, lobrd, 1500, 0
+9009, LOD_brd_mid, lobrd, 1500, 0
+9010, LOD_brd_end01, lobrd, 1500, 0
+9011, LOD_brd_end02, lobrd, 1500, 0
+9012, was_cli_ap, grnd, 150, 0
+9013, LOD_cli_ap, grndlo, 1500, 0
+9014, was_parkfnc, az_mt, 150, 0
+9015, LOD_parkfnc, az_mt, 1500, 0
+9016, was_dt_hoodZ, was_dt_hoodZ, 80, 2130052
+9017, LOD_dt_hoodZ, LOD_dt_hoodZ, 1500, 0
+9018, was_NH_bld, chem, 150, 0
+9019, LOD_NH_bld, chemlo, 1509, 0
+9020, was_dup_red01, dbm1, 150, 0
+9021, LOD_dup_red01, dbml, 1500, 2130052
+9022, was_dup_red_d, dbm1, 150, 0
+9023, LOD_dup_red_d, dbml, 1500, 2130052
+9024, was_gen_elev, dbm2, 50, 0
+9025, was_dup_red02, dbm1, 150, 0
+9026, was_dup_redd2, dbm1, 150, 0
+9027, LOD_dup_red02, dbml, 1500, 2130052
+9028, LOD_dup_redd2, dbml, 1500, 2130052
+9029, fire_lader, FRV_GNRBLD, 150, 0
+9031, was_fact_crn, fckt, 80, 0
+9032, was_fact_ent, fckt, 80, 0
+9033, was_fact_wins1, fckt, 80, 0
+9034, was_fact_wins2, fckt, 80, 0
+9035, was_fact_int15, fckt, 80, 0
+9036, was_fact_int20, fckt, 80, 0
+9037, LOD_fact_crn, lfckt, 1500, 0
+9038, LOD_fact_ent, lfckt, 1500, 0
+9039, LOD_fact_wins1, lfckt, 1500, 0
+9040, LOD_fact_int15, lfckt, 1500, 0
+9041, LOD_fact_int20, lfckt, 1500, 0
+9042, was_indust_1, fact_1, 150, 0
+9043, was_ind_fnc_c, fact_1, 150, 0
+9044, was_ind_fnc, fact_1, 150, 0
+9045, LOD_ind_fnc, lofact_1, 1500, 0
+9046, LOD_ind_fnc_c, lofact_1, 1500, 0
+9047, wasind_gatedyn, fact_1, 75, 0
+9048, wasind_gate, fact_1, 75, 0
+9049, LODind_gate, lofact_1, 1500, 0
+9050, LOD_indust_1, lofact_1, 1500, 2097280
+9051, was_warehous_01, fact_1, 150, 0
+9052, LOD_warehous_01, lofact_1, 1500, 0
+9053, was_ind_crane, ind_crane, 150, 0
+9054, LOD_ind_crane, ind_crane, 1500, 0
+9055, was_ind_gen, indu, 150, 0
+9056, LOD_ind_gen, indulo, 1500, 0
+9059, grass_waste, graz, 150, 2097284
+9060, ig_nabank, nabank, 150, 2097152
+9061, nabank_parts, nabank, 150, 2097152
+9062, ig_nuke_bld, nuke_pharm, 150, 2097152
+9063, ig_nuke_grnd, nuke_pharm, 150, 2097152
+9064, ig_nuke_pipes, nuke_pharm, 150, 2097152
+9065, ig_nuke_alpha, nuke_pharm, 150, 2097152
+9066, LODank_parts, LOD_JDS4, 1500, 2097152
+9067, LODnabank, LOD_JDS4, 1500, 2097152
+9068, LODnuke_bld, LOD_JDS3, 1500, 2097152
+9069, LODnuke_grnd, LOD_JDS3, 1500, 2097152
+9070, LODnuke_pipes, LOD_JDS3, 1500, 2097152
+9071, was_dockland, docks, 150, 0
+9072, LOD_dockland, docks_LOD, 1500, 0
+10337, int_burg_light, int_burg, 150, 0
+10366, int_gen_offdesk, dsk999, 150, 0
+10367, int_sofatable, dsk999, 150, 0
+10368, int_gen_chairs, dsk999, 150, 0
+10369, vca_intdesk, vca_tipz, 150, 0
+10381, gen_trashers, gen_trashers, 150, 0
+10385, rock_form, rock_form, 150, 0
+10386, was_int_wares, was_ips, 150, 0
+10387, int_washer, was_int_wares, 150, 0
+10388, int_bath, was_int_wares, 150, 0
+10389, int_bed, was_int_wares, 150, 0
+10390, int_couch, was_int_wares, 150, 0
+10391, int_hoLOD, was_int_wares, 150, 0
+10392, int_hoLOD2, was_int_wares, 150, 0
+10393, int_kitch, was_int_wares, 150, 0
+10394, int_ktch, was_int_wares, 150, 0
+10395, int_m33, was_int_wares, 150, 0
+10396, int_sartir, was_int_wares, 150, 0
+10397, int_shkaf, was_int_wares, 150, 0
+10398, int_shkaf2, was_int_wares, 150, 0
+10399, int_telik, was_int_wares, 150, 0
+10466, rus_zzavodbl1, ZVD, 150, 0
+10467, rus_zzavodbl2, ZVD, 150, 0
+10468, rus_zzavodbl3, ZVD, 150, 0
+10469, rus_zzavodbl4, ZVD, 150, 0
+10470, LOD_zzavodbl1, lozvvd, 1500, 0
+10471, LOD_zzavodbl2, lozvvd, 1500, 0
+10472, LOD_zzavodbl3, LOZVVD, 1500, 0
+10473, LOD_zzavodbl4, LOZVVD, 1500, 0
+10474, rus_zzabor, ZVD, 150, 0
+10475, rus_zvrata, ZVD, 150, 0
+10476, ru_zfloor, ZVD, 150, 0
+10673, RUS_CAFE, RUS_CAFE, 150, 0
+10674, RUS_CAFEIN, RUS_CAFE, 150, 0
+10675, RUS_CAFEOUT, RUS_CAFE, 150, 0
+end
+tobj
+9057, was_fact_1light, fact_1, 150, 2130052, 20, 8
+9058, LOD_fact_1light, lofact_1, 1500, 2130052, 20, 8
+end
+2dfx
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

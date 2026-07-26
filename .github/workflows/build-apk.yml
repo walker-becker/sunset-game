@@ -1,0 +1,48 @@
+name: Build APK
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar o código
+        uses: actions/checkout@v4
+
+      - name: Configurar Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Configurar Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Instalar NDK correto
+        run: sdkmanager --install "ndk;26.2.11394342"
+
+      - name: Dar permissão ao gradlew
+        run: chmod +x gradlew
+
+      - name: Gerar keystore de debug
+        run: |
+          mkdir -p ../keys
+          keytool -genkeypair -v \
+            -keystore ../keys/new.jks \
+            -alias key0 \
+            -keyalg RSA -keysize 2048 -validity 10000 \
+            -storepass 123123 -keypass 123123 \
+            -dname "CN=Sunset Launcher, OU=Dev, O=Dev, L=City, S=State, C=BR"
+
+      - name: Compilar o APK
+        run: ./gradlew assembleDebug
+
+      - name: Guardar o APK gerado
+        uses: actions/upload-artifact@v4
+        with:
+          name: app-debug
+          path: app/build/outputs/apk/debug/*.apk

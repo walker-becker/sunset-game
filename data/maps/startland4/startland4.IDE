@@ -1,0 +1,47 @@
+objs
+3658, Startl263, startl, 200, 0
+3659, Startl263LOD, startl, 1500, 0
+3660, Startl264, startl, 200, 0
+3661, Startl264LOD, startl, 1500, 0
+3662, Startl265, startl, 200, 0
+3663, Startl265LOD, startl, 1500, 0
+3664, Startl266, startl, 200, 0
+3665, Startl266LOD, startl, 1500, 0
+3669, Startl267, startl, 150, 0
+3670, Startl267LOD, startl, 1500, 0
+3671, Startl268, underh, 60, 0
+3672, Startl269, underh, 150, 0
+3673, Startl269LOD, underh, 1500, 0
+3676, Startl270, skysnova, 200, 0
+3677, Startl270LOD, skysnova, 1500, 0
+3678, Startl271, skysnova, 200, 2097152
+3679, Startl271LOD, skysnova, 1500, 0
+3680, Startl272, autoschol, 200, 2097152
+3681, Startl272LOD, autoschol, 1500, 0
+3682, Startl273, autoschol, 130, 0
+3683, Startl273LOD, autoschol, 1500, 0
+3684, Startl274, indtv, 180, 0
+3685, Startl274LOD, indtv, 1500, 0
+3686, Startl275, indtv, 180, 0
+3687, Startl275LOD, indtv, 1500, 0
+3688, Startl276, interfia, 180, 2097152
+3689, Startl276LOD, interfia, 1500, 0
+3690, Startl277, interfia, 180, 2097152
+3691, Startl278, interfia, 180, 2097152
+3692, Startl279, interfia, 180, 0
+3693, Startl279LOD, interfia, 1500, 0
+3694, Startl280, interfia, 180, 0
+3695, Startl280LOD, interfia, 1500, 0
+end
+tobj
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+end
+
+

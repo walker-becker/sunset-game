@@ -1,0 +1,103 @@
+#Item Definition File created by MapEditor
+objs
+5458, was_willy_rock01, cliffs_pack, 150, 2097152
+5459, was_willy_rock02, cliffs_pack, 150, 2097152
+5460, was_willy_rock03, cliffs_pack, 150, 2097152
+5461, was_willy_rock04, cliffs_pack, 150, 2097152
+5462, was_billy_rock01, cliffs_pack, 150, 2097152
+5463, was_billy_rock02, cliffs_pack, 150, 2097152
+5464, was_billy_rock08, cliffs_pack, 150, 2097152
+5465, was_billy_rock04, cliffs_pack, 150, 2097152
+5466, was_billy_rock05, cliffs_pack, 150, 2097152
+5467, was_billy_rock06, cliffs_pack, 150, 2097152
+5468, was_billy_rock07, cliffs_pack, 150, 2097152
+5469, was_billy_rock03, cliffs_pack, 150, 2097152
+5470, LOD_willy_rock01, cliffs_LO, 800, 2097152
+5471, LOD_willy_rock02, cliffs_LO, 800, 2097152
+5472, LOD_willy_rock03, cliffs_LO, 800, 2097152
+5473, LOD_willy_rock04, cliffs_LO, 800, 2097152
+5474, LOD_billy_rock01, cliffs_LO, 800, 2097152
+5475, LOD_billy_rock02, cliffs_LO, 800, 2097152
+5476, LOD_billy_rock08, cliffs_LO, 800, 2097152
+5477, LOD_billy_rock04, cliffs_LO, 800, 2097152
+5478, LOD_billy_rock05, cliffs_LO, 800, 2097152
+5479, LOD_billy_rock03, cliffs_LO, 800, 2097152
+5480, LOD_billy_rock07, cliffs_LO, 800, 2097152
+5481, LOD_billy_rock06, cliffs_LO, 800, 2097152
+5484, was_cliff_jo02, cliffs_pack, 150, 2097152
+5485, was_cliff_jo03, cliffs_pack, 150, 2097152
+5486, was_cliff_jo04, cliffs_pack, 150, 2097152
+5487, was_cliff_jo01, cliffs_pack, 150, 2097152
+5492, LOD_cliff_jo03, cliffs_LO, 800, 2097152
+5493, LOD_cliff_jo04, cliffs_LO, 800, 2097152
+5494, LOD_cliff_jo01, cliffs_LO, 800, 2097152
+5495, LOD_cliff_jo02, cliffs_LO, 800, 2097152
+5509, WAS_jumbo_rock01, cliffs_pack, 150, 0
+5510, WAS_jumbo_rock02, cliffs_pack, 150, 0
+5511, WAS_jumbo_rock03, cliffs_pack, 150, 0
+5512, WAS_jumbo_rock04, cliffs_pack, 150, 0
+5513, WAS_jumbo_rock05, cliffs_pack, 150, 0
+5514, WAS_jumbo_rock06, cliffs_pack, 150, 0
+5515, WAS_jumbo_rock07, cliffs_pack, 150, 0
+5516, WAS_jumbo_rock08, cliffs_pack, 150, 0
+5517, WAS_jumbo_rock09, cliffs_pack, 150, 0
+5518, WAS_jumbo_rock10, cliffs_pack, 150, 0
+5519, WAS_jumbo_rock11, cliffs_pack, 150, 0
+5520, WAS_jumbo_rock13, cliffs_pack, 150, 0
+5521, WAS_jumbo_rock14, cliffs_pack, 150, 0
+5522, WAS_jumbo_rock12, cliffs_pack, 150, 0
+5523, LOD_jumbo_rock01, cliffs_LO, 800, 0
+5524, LOD_jumbo_rock02, cliffs_LO, 800, 0
+5525, LOD_jumbo_rock03, cliffs_LO, 800, 0
+5526, LOD_jumbo_rock04, cliffs_LO, 800, 0
+5527, LOD_jumbo_rock05, cliffs_LO, 800, 0
+5528, LOD_jumbo_rock06, cliffs_LO, 800, 0
+5529, LOD_jumbo_rock07, cliffs_LO, 800, 0
+5530, LOD_jumbo_rock08, cliffs_LO, 800, 0
+5531, LOD_jumbo_rock09, cliffs_LO, 800, 0
+5532, LOD_jumbo_rock10, cliffs_LO, 800, 0
+5533, LOD_jumbo_rock11, cliffs_LO, 800, 0
+5534, LOD_jumbo_rock13, cliffs_LO, 800, 0
+5535, LOD_jumbo_rock14, cliffs_LO, 800, 0
+5536, LOD_jumbo_rock12, cliffs_LO, 800, 0
+5537, was_rock_grp, cliffs_pack, 90, 0
+5538, LOD_rock_grp, cliffs_LO, 800, 0
+8644, pine_tree_grp, GRAZ, 150, 2130052
+8645, LODe_tree_grp, LODGRAZ, 800, 2130052
+8646, russ_port, russ_port, 150, 0
+8647, russ_port_DLC, russ_port, 150, 0
+8648, russ_port_LADDER, russ_port, 150, 0
+8649, LODs_port, LOruss_port, 2990, 0
+end
+tobj
+end
+2dfx
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,151 @@
+#Item Definition File created by MapEditor
+objs
+5460, pine_tree_grp, GRAZ, 75, 2130052
+5461, LODe_tree_grp, LODGRAZ, 800, 2130052
+5462, VCC_DIRTA, VCC_BRI, 150, 8
+5463, VCC_PARKI, TIKIS_GENBLD0, 150, 8
+5464, VCC_CASK, P2, 50, 0
+5465, VCC_PRKF, P2, 50, 0
+5466, VCC_CREA, VCC_C3, 95, 0
+5467, VCC_tpl, SVETLINE, 50, 0
+5468, LOD_tpl, SVETLINE, 800, 0
+5469, VCC_CRACK01, VCC_CRACK0, 50, 8
+5470, VCC_CRACK02, VCC_CRACK0, 50, 8
+5471, VCC_CRACK03, VCC_CRACK0, 50, 8
+5472, VCC_INDP01, VCC_INDP0, 50, 0
+5473, VCC_INDP02, VCC_INDP0, 50, 0
+5474, VCC_INDP03, VCC_INDP0, 50, 0
+5475, VCC_INDP04, VCC_INDP0, 50, 0
+5476, VCC_INDP05, VCC_INDP0, 50, 0
+5477, VCC_INDP06, VCC_INDP0, 50, 0
+5478, VCC_INDP07, VCC_INDP0, 50, 0
+5479, VCC_INDP08, VCC_INDP0, 50, 0
+5480, VCC_INDP09, VCC_INDP0, 50, 0
+5481, VCC_INDP10, VCC_INDP0, 50, 0
+5483, RD_DEC01, RD_DEC0, 99, 8
+5484, RD_DEC02, RD_DEC0, 99, 8
+5485, RD_DEC03, RD_DEC0, 99, 8
+5486, RD_DEC04, RD_DEC0, 99, 8
+5487, RD_DEC05, RD_DEC0, 99, 2097284
+5488, dcs01, dcs0, 99, 8
+5489, dcs02, dcs0, 99, 8
+5490, dcs03, dcs0, 99, 8
+5491, dcs04, dcs0, 99, 8
+5492, dcs05, dcs0, 99, 8
+5493, dcs06, dcs0, 99, 8
+5494, dcs07, dcs0, 99, 8
+5495, frv_roofbit1, frv_roofbit1, 150, 0
+5496, FRV_GARBAGE, GARBA, 99, 0
+5497, FRV_GATEIND, GARBA, 99, 0
+5502, rus_treepack, rus_treepack, 50, 2130052
+5503, LOD_treepack, LOD_treepack, 500, 2130052
+5504, PFNC10, PFNC, 50, 0
+5505, PFNC50, PFNC, 99, 0
+5506, PFNC40, PFNC, 99, 0
+5507, mct_lesa, mct_les, 95, 0
+5508, mct_lesd, mct_les, 95, 0
+5509, was_ind_crane, ind_crane, 150, 0
+5510, LOD_ind_crane, ind_crane, 1500, 0
+5511, was_ind_crane2, ind_crane, 150, 0
+5512, LOD_ind_crane2, ind_crane, 1500, 0
+5513, grass_waste, graz, 150, 2097284
+5514, STREET_TREE, STREET_TREE, 75, 2130052
+5515, was_bboard01, was_bboard0, 99, 0
+5516, was_bboard02, was_bboard0, 99, 0
+5517, was_bboard03, was_bboard0, 99, 0
+5518, was_bboard04, was_bboard0, 99, 0
+5519, was_bboard05, was_bboard0, 99, 0
+5520, LOD_bboard01, LOD_bboard0, 800, 0
+5521, LOD_bboard02, LOD_bboard0, 800, 0
+5522, LOD_bboard03, LOD_bboard0, 800, 0
+5523, LOD_bboard04, LOD_bboard0, 800, 0
+5524, LOD_bboard05, LOD_bboard0, 800, 0
+5525, was_trees, woo, 80, 2097152
+5526, LOD_trees, lo_n, 800, 0
+5527, was_pin_group, wtre, 80, 0
+5528, LOD_pin_group, lo_n, 800, 0
+5529, was_pine, wtre, 90, 2130052
+5530, LOD_pine, lo_n, 800, 2130052
+5531, pylon_1, OLD_STUFF, 50, 0
+5532, LODon_1, OLD_STUFF, 800, 0
+5533, was_petrolium01, was_petrolium0, 99, 0
+5534, LOD_petrolium01, LOD_petrolium0, 800, 0
+5535, was_petrolium02, was_petrolium0, 99, 0
+5536, LOD_petrolium02, LOD_petrolium0, 800, 0
+5537, VCC_ARCT, VCC_ARCT, 99, 0
+5538, CITY_TRE, CITY_TRE, 75, 2097284
+5539, RUS_MDFNC10, RUS_MDFNC, 45, 0
+5540, RUS_MDFNC50, RUS_MDFNC, 99, 0
+5541, BUSH01, veg_waste, 16, 4
+5542, BUSH02, veg_waste, 16, 4
+5543, BUSH03, veg_waste, 16, 4
+5544, BUSH04, veg_waste, 16, 4
+5545, teplo_8, teplo_, 99, 0
+5546, LODlo_8, LOteplo_, 500, 0
+5547, teplo_6, teplo_, 99, 0
+5548, LODlo_7, LOteplo_, 500, 0
+5549, GRAIL_RUS, GR, 150, 0
+5550, ig_sosna_grp, vgs, 60, 4
+5551, LODsosna_grp, LOvgs, 500, 4
+5552, berezka_grp, vgs, 150, 4
+5553, LODezka_grp, LOvgs, 500, 4
+5554, berezka_line, vgs, 60, 4
+5555, LODezka_line, LOvgs, 500, 4
+5556, VCC_ARCT2, VCC_ARCT, 99, 0
+end
+tobj
+end
+2dfx
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

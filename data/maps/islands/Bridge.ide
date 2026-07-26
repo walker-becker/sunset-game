@@ -1,0 +1,27 @@
+#Bridge
+objs
+7040, Bridge_play_00, Bridge_play, 299, 0
+7041, Bridge_play_01, Bridge_play, 299, 0
+7042, Bridge_play_02, Bridge_play, 299, 0
+7043, Bridge_play_03, Bridge_play, 299, 0
+7044, Bridge_play_04, Bridge_play, 299, 0
+7045, Bridge_play_05, Bridge_play, 299, 0
+7046, Bridge_play_06, Bridge_play, 299, 0
+7047, Bridge_play_07, Bridge_play, 299, 0
+7048, Bridge_play_08, Bridge_play, 299, 0
+7049, Bridge_play_09, Bridge_play, 299, 0
+7050, Bridge_play_10, Bridge_play, 299, 0
+7051, Bridge_play_11, Bridge_play, 299, 0
+7052, Bridge_play_12, Bridge_play, 299, 0
+7053, Bridge_play_13, Bridge_play, 299, 0
+7054, Bridge_play_14, Bridge_play, 299, 0
+7055, Bridge_play_15, Bridge_play, 299, 0
+7056, Bridge_play_16, Bridge_play, 299, 0
+7057, Bridge_play_17, Bridge_play, 299, 0
+7058, Bridge_play_18, Bridge_play, 299, 0
+7059, Bridge_play_19, Bridge_play, 299, 0
+end
+tobj
+end
+txdp
+end

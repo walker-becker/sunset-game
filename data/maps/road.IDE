@@ -1,0 +1,130 @@
+#Item Definition File created by MapEditor
+objs
+6921, vci_road200_blnd, vc_roads, 150, 0
+6922, vci_road_curve, vc_roads, 150, 0
+6923, vci_road100, vc_roads, 150, 0
+6924, vci_road50, vc_roads, 150, 0
+6925, vci_road100_blnd, vc_roads, 150, 0
+6926, vci_road50_blnd, vc_roads, 150, 0
+6927, vci_curve_blnA, vc_roads, 150, 0
+6928, vci_curve_blnB, vc_roads, 150, 0
+6929, vci_curve_blnC, vc_roads, 150, 0
+6930, vca_road50_blnd, vc_roads, 150, 0
+6931, vca_road100_blnd, vc_roads, 150, 0
+6932, vci_road200, vc_roads, 150, 0
+6933, vca_road200, vc_roads, 150, 0
+6934, vca_road200_blnd0, vc_roads, 150, 0
+6935, vca_road, vc_roads, 150, 0
+6936, vca__curve_blnB, vc_roads, 150, 0
+6937, vca__curve_blnC, vc_roads, 150, 0
+6938, vca_road_curve, vc_roads, 150, 0
+6939, vca__curve_blnA, vc_roads, 150, 0
+6947, LOD_road200, LODvc_roads, 1500, 0
+6948, LOD_road200_blnd, LODvc_roads, 1500, 0
+6949, LOD_road100, LODvc_roads, 1500, 0
+6950, LOD_road50, LODvc_roads, 1500, 0
+6951, LOD_road100_blnd, LODvc_roads, 1500, 0
+6952, LOD_road50_blnd, LODvc_roads, 1500, 0
+6953, LOD_road, LODvc_roads, 1500, 0
+6954, LOD_road200_blnd0, LODvc_roads, 1500, 0
+6959, LOD_curve_blnC, LODvc_roads, 1500, 0
+6960, LOD_curve_blnB, LODvc_roads, 1500, 0
+6961, LOD_curve_blnA, LODvc_roads, 1500, 0
+6962, LOD__curve_blnB, LODvc_roads, 1500, 0
+6963, LOD__curve_blnC, LODvc_roads, 1500, 0
+6964, LOD_road_curve, LODvc_roads, 1500, 0
+6965, LOD__curve_blnA, LODvc_roads, 1500, 0
+7162, vci_road-cross, vc_roads, 150, 0
+7163, LOD_road-cross, LODvc_roads, 1500, 0
+7164, vci_road-cross2, vc_roads, 150, 0
+7165, LOD_road-cross2, LODvc_roads, 1500, 0
+7307, vca_cross100_blnd, vc_roads, 150, 0
+7308, LOD_cross100_blnd, LODvc_roads, 1500, 0
+7309, vca_cross3_blnd, vc_roads, 150, 0
+7310, LOD_cross3_blnd, LODvc_roads, 1500, 0
+7350, vci_curve_cir, vc_roads, 150, 0
+7351, LOD_curve_cir, LODvc_roads, 1500, 0
+7797, cub_curvea, VC_ROADS, 150, 0
+7798, cub_curveB, VC_ROADS, 150, 0
+7799, LOD_curvea, LODvc_roads, 1500, 0
+7800, LOD_curveB, LODvc_roads, 1500, 0
+7808, cub_lineroad, vc_roads, 150, 0
+7812, cub_road_circe, vc_roads, 150, 0
+7813, LOD_road_circe, LODvc_roads, 1500, 0
+8146, VCC_DTNCONC, VCC_DTD, 50, 0
+8147, LOD_DTNCONC, LOD_DTD, 1500, 0
+8148, VCC_DTNFNC, VCC_DTD, 50, 0
+8149, LOD_DTNFNC, LOD_DTD, 1500, 0
+8150, VCC_DTNFNE, VCC_DTD, 50, 0
+8612, LOD_DTNFNE, LOD_DTD, 1500, 0
+10717, CONTRY_c_blnA, vc_roads, 150, 0
+10718, CONTRY_c_blnC, vc_roads, 150, 0
+10719, CONTRY_c_blnB, vc_roads, 150, 0
+10721, dest_road_100_blnd, vc_roads, 150, 0
+10722, dest_road_CURVE, vc_roads, 150, 0
+10723, dest_road_LINE, vc_roads, 150, 0
+10724, dest_road_CURVEB2, vc_roads, 150, 0
+10725, INDUST_ROAD, vc_roads, 150, 0
+10726, INDUST_ROADCUR, vc_roads, 150, 0
+10727, INDUST_ROAD_B, vc_roads, 150, 0
+10728, CONTRY_curvea, vc_roads, 150, 0
+10729, CONTRY_road, vc_roads, 150, 0
+10730, CONTRY_BLEND, vc_roads, 150, 0
+10731, LODTRY_c_blnA, LODvc_roads, 1500, 0
+10732, LODTRY_c_blnC, LODvc_roads, 1500, 0
+10733, LODTRY_road, LODvc_roads, 1500, 0
+10734, LODTRY_curvea, LODvc_roads, 1500, 0
+10735, LODUST_ROAD_B, LODvc_roads, 1500, 0
+10736, LODt_road_CURVE, LODvc_roads, 1500, 0
+10737, LODt_road_LINE, LODvc_roads, 1500, 0
+10738, LODt_road_CURVEB2, LODvc_roads, 1500, 0
+10739, LODUST_ROAD, LODvc_roads, 1500, 0
+10740, LODUST_ROADCUR, LODvc_roads, 1500, 0
+10742, LODTRY_c_blnB, LODvc_roads, 1500, 0
+10743, LODTRY_BLEND, LODvc_roads, 1500, 0
+10744, LODt_road_100_blnd, LODvc_roads, 1500, 0
+10920, dest_road_curveB, vc_roads, 150, 0
+10941, LODt_road_curveB, LODvc_roads, 1500, 0
+end
+tobj
+end
+2dfx
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

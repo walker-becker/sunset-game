@@ -1,0 +1,26 @@
+objs
+6913, bar_int, slut_int, 299, 0
+6914, bar_det01, slut_int, 299, 0
+6915, bar_det02, slut_int, 299, 0
+6917, was_savehou, save_int, 50, 0
+10236, int_GGR, int_GGR, 299, 0
+end
+tobj
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+end
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,89 @@
+#Item Definition File created by MapEditor
+objs
+6753, was_freeway_clear, wds, 299, 0
+6754, was_freeway_crack, wds, 299, 0
+6755, was_freeway_clearrd, wds, 299, 0
+6756, was_freeway_cr1, wds, 299, 0
+6757, was_freeway_cr2, wds, 299, 0
+6758, LOD_freeway_clear, az_lod, 3000, 0
+6759, LOD_freeway_crack, az_lod, 3000, 0
+6760, LOD_freeway_cr1, az_lod, 3000, 0
+6761, LOD_freeway_cr2, az_lod, 3000, 0
+6762, was_coast_mid, wds, 299, 0
+6763, was_coast_crn01, wds, 299, 0
+6764, was_coast_crn02, wds, 299, 0
+6765, LOD_coast_crn01, az_lod, 3000, 0
+6766, LOD_coast_crn02, az_lod, 3000, 0
+6767, LOD_coast_mid, az_lod, 3000, 0
+6768, was_cliff_cr01, wds, 299, 0
+6769, was_cliff_cr02, wds, 299, 0
+6770, was_cliff_m01, wds, 299, 0
+6771, was_cliff_m02, wds, 299, 0
+6772, was_cliff_road, wds, 299, 0
+6773, lod_cliff_m01, az_lod, 3000, 0
+6774, lod_cliff_m02, az_lod, 3000, 0
+6775, lod_cliff_cr01, az_lod, 3000, 0
+6776, lod_cliff_cr02, az_lod, 3000, 0
+6777, lod_cliff_road, az_lod, 3000, 0
+6778, was_city_grnd01, city, 299, 0
+6779, was_city_grnd02, city, 299, 0
+6780, was_city_grnd03, city, 299, 0
+6781, was_city_grnd04, city, 299, 0
+6782, lod_city_grnd01, city, 3000, 0
+6783, lod_city_grnd02, city, 3000, 0
+6784, lod_city_grnd03, city, 3000, 0
+6785, lod_city_grnd04, city, 3000, 0
+6786, was_city_grnd05, city, 299, 0
+6787, was_city_grnd06, city, 299, 0
+6788, was_city_grnd07, city, 299, 0
+6789, lod_city_grnd05, city, 3000, 0
+6790, lod_city_grnd06, city, 3000, 0
+6791, lod_city_grnd07, city, 3000, 0
+6792, was_city_grnd08, city, 299, 0
+6793, was_city_grnd09, city, 299, 0
+6794, LOD_city_grnd08, city, 3000, 0
+6795, LOD_city_grnd09, city, 3000, 0
+6796, was_woods1, wds, 299, 2130052
+6797, lod_woods1, az_lod, 3000, 2130052
+6798, was_seabed, wds, 299, 0
+6799, lod_seabed, az_lod, 3000, 0
+6800, was_city_grnd10, city, 299, 0
+6801, lod_city_grnd10, city, 3000, 0
+6802, was_city_grnd11, city, 299, 0
+6803, lod_city_grnd11, city, 3000, 0
+6804, was_city_grnd12, city, 299, 0
+6805, lod_city_grnd12, city, 3000, 0
+6806, was_city_grnd13, city, 299, 0
+6807, lod_city_grnd13, city, 3000, 0
+6808, was_city_grnd14, city, 299, 0
+6809, lod_city_grnd14, city, 3000, 0
+6810, was_city_grnd15, city, 299, 0
+6811, lod_city_grnd15, city, 3000, 0
+6812, was_city_grnd15_1, city, 299, 0
+end
+tobj
+end
+2dfx
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
