@@ -2178,13 +2178,6 @@
       "gpu": "all"
     },
     {
-      "name": "ty.IPL",
-      "path": "/data/maps/",
-      "size": 0,
-      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/ty.IPL",
-      "gpu": "all"
-    },
-    {
       "name": "vcsa.IDE",
       "path": "/data/maps/",
       "size": 1705,
@@ -2493,13 +2486,6 @@
       "gpu": "all"
     },
     {
-      "name": "empty.IPL",
-      "path": "/data/maps/LIBERTY/",
-      "size": 0,
-      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LIBERTY/empty.IPL",
-      "gpu": "all"
-    },
-    {
       "name": "heig.IPL",
       "path": "/data/maps/LIBERTY/",
       "size": 47,
@@ -2574,13 +2560,6 @@
       "path": "/data/maps/MOTOR/",
       "size": 84994,
       "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/MOTOR/d_towns.IPL",
-      "gpu": "all"
-    },
-    {
-      "name": "empty.IPL",
-      "path": "/data/maps/MOTOR/",
-      "size": 0,
-      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/MOTOR/empty.IPL",
       "gpu": "all"
     },
     {
@@ -2903,13 +2882,6 @@
       "path": "/data/maps/SF/",
       "size": 29547,
       "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/SF/SFSe.ide",
-      "gpu": "all"
-    },
-    {
-      "name": "SFSe.ipl",
-      "path": "/data/maps/SF/",
-      "size": 0,
-      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/SF/SFSe.ipl",
       "gpu": "all"
     },
     {
@@ -4292,13 +4264,6 @@
       "gpu": "all"
     },
     {
-      "name": "gta3.dxt.toc",
-      "path": "/texdb/gta3/",
-      "size": 0,
-      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/gta3/gta3.dxt.toc",
-      "gpu": "all"
-    },
-    {
       "name": "gta3.txt",
       "path": "/texdb/gta3/",
       "size": 180597,
@@ -4317,13 +4282,6 @@
       "path": "/texdb/gta_int/",
       "size": 677034,
       "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/gta_int/gta_int.dxt.tmb",
-      "gpu": "all"
-    },
-    {
-      "name": "gta_int.dxt.toc",
-      "path": "/texdb/gta_int/",
-      "size": 0,
-      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/gta_int/gta_int.dxt.toc",
       "gpu": "all"
     },
     {
