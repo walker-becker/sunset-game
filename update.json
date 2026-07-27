@@ -1,0 +1,2321 @@
+{
+  "files": [
+    {
+      "name": "CINFO.BIN",
+      "path": "/",
+      "size": 634084,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/CINFO.BIN",
+      "gpu": "all"
+    },
+    {
+      "name": "gtasatelem.set",
+      "path": "/",
+      "size": 392,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/gtasatelem.set",
+      "gpu": "all"
+    },
+    {
+      "name": "samp_log.txt",
+      "path": "/",
+      "size": 447432,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/samp_log.txt",
+      "gpu": "all"
+    },
+    {
+      "name": "stream.ini",
+      "path": "/",
+      "size": 197,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/stream.ini",
+      "gpu": "all"
+    },
+    {
+      "name": "SAMP.ide",
+      "path": "/SAMP/",
+      "size": 89349,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/SAMP/SAMP.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "TIMECYC.DAT",
+      "path": "/SAMP/",
+      "size": 40037,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/SAMP/TIMECYC.DAT",
+      "gpu": "all"
+    },
+    {
+      "name": "WEAPON.dat",
+      "path": "/SAMP/",
+      "size": 11585,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/SAMP/WEAPON.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "favorites.json",
+      "path": "/SAMP/",
+      "size": 70,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/SAMP/favorites.json",
+      "gpu": "all"
+    },
+    {
+      "name": "gta.dat",
+      "path": "/SAMP/",
+      "size": 3789,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/SAMP/gta.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "handling.cfg",
+      "path": "/SAMP/",
+      "size": 64532,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/SAMP/handling.cfg",
+      "gpu": "all"
+    },
+    {
+      "name": "main.scm",
+      "path": "/SAMP/",
+      "size": 96997,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/SAMP/main.scm",
+      "gpu": "all"
+    },
+    {
+      "name": "peds.ide",
+      "path": "/SAMP/",
+      "size": 36369,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/SAMP/peds.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "script.img",
+      "path": "/SAMP/",
+      "size": 184320,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/SAMP/script.img",
+      "gpu": "all"
+    },
+    {
+      "name": "settings.ini",
+      "path": "/SAMP/",
+      "size": 434,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/SAMP/settings.ini",
+      "gpu": "all"
+    },
+    {
+      "name": "svlog.txt",
+      "path": "/SAMP/",
+      "size": 1175,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/SAMP/svlog.txt",
+      "gpu": "all"
+    },
+    {
+      "name": "tracks2.dat",
+      "path": "/SAMP/",
+      "size": 1,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/SAMP/tracks2.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "tracks4.dat",
+      "path": "/SAMP/",
+      "size": 1,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/SAMP/tracks4.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "vehicles.ide",
+      "path": "/SAMP/",
+      "size": 21093,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/SAMP/vehicles.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "american.gxt",
+      "path": "/Text/",
+      "size": 1339424,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/Text/american.gxt",
+      "gpu": "all"
+    },
+    {
+      "name": "french.gxt",
+      "path": "/Text/",
+      "size": 1459044,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/Text/french.gxt",
+      "gpu": "all"
+    },
+    {
+      "name": "german.gxt",
+      "path": "/Text/",
+      "size": 1497182,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/Text/german.gxt",
+      "gpu": "all"
+    },
+    {
+      "name": "italian.gxt",
+      "path": "/Text/",
+      "size": 1371048,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/Text/italian.gxt",
+      "gpu": "all"
+    },
+    {
+      "name": "japanese.gxt",
+      "path": "/Text/",
+      "size": 643202,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/Text/japanese.gxt",
+      "gpu": "all"
+    },
+    {
+      "name": "russian.gxt",
+      "path": "/Text/",
+      "size": 1421038,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/Text/russian.gxt",
+      "gpu": "all"
+    },
+    {
+      "name": "spanish.gxt",
+      "path": "/Text/",
+      "size": 1386744,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/Text/spanish.gxt",
+      "gpu": "all"
+    },
+    {
+      "name": "JapaneseFont.met",
+      "path": "/Textures/fonts/",
+      "size": 45171,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/Textures/fonts/JapaneseFont.met",
+      "gpu": "all"
+    },
+    {
+      "name": "RussianFont.met",
+      "path": "/Textures/fonts/",
+      "size": 4279,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/Textures/fonts/RussianFont.met",
+      "gpu": "all"
+    },
+    {
+      "name": "RussianFont.png",
+      "path": "/Textures/fonts/",
+      "size": 38743,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/Textures/fonts/RussianFont.png",
+      "gpu": "all"
+    },
+    {
+      "name": "anim.img",
+      "path": "/anim/",
+      "size": 10942464,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/anim/anim.img",
+      "gpu": "all"
+    },
+    {
+      "name": "cuts.img",
+      "path": "/anim/",
+      "size": 16029696,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/anim/cuts.img",
+      "gpu": "all"
+    },
+    {
+      "name": "ped.ifp",
+      "path": "/anim/",
+      "size": 1433248,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/anim/ped.ifp",
+      "gpu": "all"
+    },
+    {
+      "name": "AudioEventHistory.txt",
+      "path": "/audio/CONFIG/",
+      "size": 114056,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/CONFIG/AudioEventHistory.txt",
+      "gpu": "all"
+    },
+    {
+      "name": "BankLkup.dat",
+      "path": "/audio/CONFIG/",
+      "size": 8520,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/CONFIG/BankLkup.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "BankSlot.dat",
+      "path": "/audio/CONFIG/",
+      "size": 216902,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/CONFIG/BankSlot.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "EventVol.dat",
+      "path": "/audio/CONFIG/",
+      "size": 45402,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/CONFIG/EventVol.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "PakFiles.dat",
+      "path": "/audio/CONFIG/",
+      "size": 468,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/CONFIG/PakFiles.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "SOUNDINF.DAT",
+      "path": "/audio/CONFIG/",
+      "size": 746760,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/CONFIG/SOUNDINF.DAT",
+      "gpu": "all"
+    },
+    {
+      "name": "StrmPaks.dat",
+      "path": "/audio/CONFIG/",
+      "size": 272,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/CONFIG/StrmPaks.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "TRKHEAD.DAT",
+      "path": "/audio/CONFIG/",
+      "size": 15506696,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/CONFIG/TRKHEAD.DAT",
+      "gpu": "all"
+    },
+    {
+      "name": "TrakLkup.dat",
+      "path": "/audio/CONFIG/",
+      "size": 23064,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/CONFIG/TrakLkup.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "FEET.osw",
+      "path": "/audio/SFX/",
+      "size": 138118,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/SFX/FEET.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "FEET.osw.idx",
+      "path": "/audio/SFX/",
+      "size": 1220,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/SFX/FEET.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "GENRL.osw",
+      "path": "/audio/SFX/",
+      "size": 9362373,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/SFX/GENRL.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "GENRL.osw.idx",
+      "path": "/audio/SFX/",
+      "size": 20868,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/SFX/GENRL.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "PAIN_A.osw",
+      "path": "/audio/SFX/",
+      "size": 3247335,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/SFX/PAIN_A.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "PAIN_A.osw.idx",
+      "path": "/audio/SFX/",
+      "size": 12836,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/SFX/PAIN_A.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "AA.osw",
+      "path": "/audio/STREAMS/",
+      "size": 15462,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/AA.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "AA.osw.idx",
+      "path": "/audio/STREAMS/",
+      "size": 1522,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/AA.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "ADVERTS.osw",
+      "path": "/audio/STREAMS/",
+      "size": 3516982,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/ADVERTS.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "ADVERTS.osw.idx",
+      "path": "/audio/STREAMS/",
+      "size": 1591,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/ADVERTS.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "AMBIENCE.osw",
+      "path": "/audio/STREAMS/",
+      "size": 22719112,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/AMBIENCE.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "AMBIENCE.osw.idx",
+      "path": "/audio/STREAMS/",
+      "size": 924,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/AMBIENCE.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "BEATS.osw",
+      "path": "/audio/STREAMS/",
+      "size": 9415375,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/BEATS.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "BEATS.osw.idx",
+      "path": "/audio/STREAMS/",
+      "size": 234,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/BEATS.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "CH.osw",
+      "path": "/audio/STREAMS/",
+      "size": 15462,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/CH.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "CH.osw.idx",
+      "path": "/audio/STREAMS/",
+      "size": 2994,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/CH.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "CO.osw",
+      "path": "/audio/STREAMS/",
+      "size": 15462,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/CO.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "CO.osw.idx",
+      "path": "/audio/STREAMS/",
+      "size": 3569,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/CO.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "CR.osw",
+      "path": "/audio/STREAMS/",
+      "size": 15462,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/CR.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "CR.osw.idx",
+      "path": "/audio/STREAMS/",
+      "size": 3592,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/CR.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "CUTSCENE.osw",
+      "path": "/audio/STREAMS/",
+      "size": 301175,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/CUTSCENE.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "CUTSCENE.osw.idx",
+      "path": "/audio/STREAMS/",
+      "size": 3247,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/CUTSCENE.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "DS.osw",
+      "path": "/audio/STREAMS/",
+      "size": 15462,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/DS.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "DS.osw.idx",
+      "path": "/audio/STREAMS/",
+      "size": 4121,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/DS.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "HC.osw",
+      "path": "/audio/STREAMS/",
+      "size": 15462,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/HC.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "HC.osw.idx",
+      "path": "/audio/STREAMS/",
+      "size": 2649,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/HC.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "MH.osw",
+      "path": "/audio/STREAMS/",
+      "size": 15462,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/MH.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "MH.osw.idx",
+      "path": "/audio/STREAMS/",
+      "size": 3500,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/MH.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "MR.osw",
+      "path": "/audio/STREAMS/",
+      "size": 15462,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/MR.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "MR.osw.idx",
+      "path": "/audio/STREAMS/",
+      "size": 3385,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/MR.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "NJ.osw",
+      "path": "/audio/STREAMS/",
+      "size": 15462,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/NJ.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "NJ.osw.idx",
+      "path": "/audio/STREAMS/",
+      "size": 2994,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/NJ.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "RE.osw",
+      "path": "/audio/STREAMS/",
+      "size": 15462,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/RE.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "RE.osw.idx",
+      "path": "/audio/STREAMS/",
+      "size": 3707,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/RE.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "RG.osw",
+      "path": "/audio/STREAMS/",
+      "size": 15462,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/RG.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "RG.osw.idx",
+      "path": "/audio/STREAMS/",
+      "size": 3914,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/RG.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "TK.osw",
+      "path": "/audio/STREAMS/",
+      "size": 15462,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/TK.osw",
+      "gpu": "all"
+    },
+    {
+      "name": "TK.osw.idx",
+      "path": "/audio/STREAMS/",
+      "size": 2327,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/audio/STREAMS/TK.osw.idx",
+      "gpu": "all"
+    },
+    {
+      "name": "360Default1280x720.cfg",
+      "path": "/data/",
+      "size": 10898,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/360Default1280x720.cfg",
+      "gpu": "all"
+    },
+    {
+      "name": "360Default960x720.cfg",
+      "path": "/data/",
+      "size": 10888,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/360Default960x720.cfg",
+      "gpu": "all"
+    },
+    {
+      "name": "ShopUVs.dat",
+      "path": "/data/",
+      "size": 30509,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/ShopUVs.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "TouchDefaultPhone3x2.cfg",
+      "path": "/data/",
+      "size": 10912,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/TouchDefaultPhone3x2.cfg",
+      "gpu": "all"
+    },
+    {
+      "name": "TouchDefaultPhoneWidescreen.cfg",
+      "path": "/data/",
+      "size": 10924,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/TouchDefaultPhoneWidescreen.cfg",
+      "gpu": "all"
+    },
+    {
+      "name": "TouchDefaultTablet4x3.cfg",
+      "path": "/data/",
+      "size": 10926,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/TouchDefaultTablet4x3.cfg",
+      "gpu": "all"
+    },
+    {
+      "name": "TouchDefaultTabletWidescreen.cfg",
+      "path": "/data/",
+      "size": 10923,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/TouchDefaultTabletWidescreen.cfg",
+      "gpu": "all"
+    },
+    {
+      "name": "animgrp.dat",
+      "path": "/data/",
+      "size": 3096,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/animgrp.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "ar_stats.dat",
+      "path": "/data/",
+      "size": 3593,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/ar_stats.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "carcols.dat",
+      "path": "/data/",
+      "size": 15361,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/carcols.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "cargrp.dat",
+      "path": "/data/",
+      "size": 3909,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/cargrp.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "carmods.dat",
+      "path": "/data/",
+      "size": 8763,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/carmods.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "clothes.dat",
+      "path": "/data/",
+      "size": 5317,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/clothes.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "colorcycle.dat",
+      "path": "/data/",
+      "size": 13612,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/colorcycle.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "default.dat",
+      "path": "/data/",
+      "size": 577,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/default.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "default.ide",
+      "path": "/data/",
+      "size": 4679,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/default.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "fonts.dat",
+      "path": "/data/",
+      "size": 3576,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/fonts.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "furnitur.dat",
+      "path": "/data/",
+      "size": 16480,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/furnitur.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "gridref.dat",
+      "path": "/data/",
+      "size": 1498,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/gridref.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "gta.dat",
+      "path": "/data/",
+      "size": 3776,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/gta.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "handling.cfg",
+      "path": "/data/",
+      "size": 64532,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/handling.cfg",
+      "gpu": "all"
+    },
+    {
+      "name": "info.zon",
+      "path": "/data/",
+      "size": 28139,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/info.zon",
+      "gpu": "all"
+    },
+    {
+      "name": "map.zon",
+      "path": "/data/",
+      "size": 436,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/map.zon",
+      "gpu": "all"
+    },
+    {
+      "name": "melee.dat",
+      "path": "/data/",
+      "size": 6306,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/melee.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "object.dat",
+      "path": "/data/",
+      "size": 126118,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/object.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "ped.dat",
+      "path": "/data/",
+      "size": 1276,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/ped.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "pedgrp.dat",
+      "path": "/data/",
+      "size": 5792,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/pedgrp.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "peds.ide",
+      "path": "/data/",
+      "size": 33401,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/peds.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "pedstats.dat",
+      "path": "/data/",
+      "size": 3604,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/pedstats.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "plants.dat",
+      "path": "/data/",
+      "size": 9887,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/plants.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "popcycle.dat",
+      "path": "/data/",
+      "size": 127108,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/popcycle.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "procobj.dat",
+      "path": "/data/",
+      "size": 10019,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/procobj.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "shopping.dat",
+      "path": "/data/",
+      "size": 46875,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/shopping.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "statdisp.dat",
+      "path": "/data/",
+      "size": 7292,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/statdisp.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "surface.dat",
+      "path": "/data/",
+      "size": 576,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/surface.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "surfaud.dat",
+      "path": "/data/",
+      "size": 6530,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/surfaud.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "surfinfo.dat",
+      "path": "/data/",
+      "size": 28106,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/surfinfo.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "timecyc.dat",
+      "path": "/data/",
+      "size": 40037,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/timecyc.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "txdcut.ide",
+      "path": "/data/",
+      "size": 478,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/txdcut.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "vehicles.ide",
+      "path": "/data/",
+      "size": 21093,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/vehicles.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "water.dat",
+      "path": "/data/",
+      "size": 70099,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/water.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "water1.dat",
+      "path": "/data/",
+      "size": 60063,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/water1.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "weapon.dat",
+      "path": "/data/",
+      "size": 11602,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/weapon.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "PedEvent.txt",
+      "path": "/data/Decision/",
+      "size": 1298,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/PedEvent.txt",
+      "gpu": "all"
+    },
+    {
+      "name": "Cop.ped",
+      "path": "/data/Decision/Allowed/",
+      "size": 4908,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/Allowed/Cop.ped",
+      "gpu": "all"
+    },
+    {
+      "name": "Fireman.ped",
+      "path": "/data/Decision/Allowed/",
+      "size": 4435,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/Allowed/Fireman.ped",
+      "gpu": "all"
+    },
+    {
+      "name": "GangMbr.ped",
+      "path": "/data/Decision/Allowed/",
+      "size": 6194,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/Allowed/GangMbr.ped",
+      "gpu": "all"
+    },
+    {
+      "name": "Indoors.ped",
+      "path": "/data/Decision/Allowed/",
+      "size": 2809,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/Allowed/Indoors.ped",
+      "gpu": "all"
+    },
+    {
+      "name": "MISSION.grp",
+      "path": "/data/Decision/Allowed/",
+      "size": 2758,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/Allowed/MISSION.grp",
+      "gpu": "all"
+    },
+    {
+      "name": "RANDOM.grp",
+      "path": "/data/Decision/Allowed/",
+      "size": 4623,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/Allowed/RANDOM.grp",
+      "gpu": "all"
+    },
+    {
+      "name": "RANDOM.ped",
+      "path": "/data/Decision/Allowed/",
+      "size": 4142,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/Allowed/RANDOM.ped",
+      "gpu": "all"
+    },
+    {
+      "name": "RANDOM2.grp",
+      "path": "/data/Decision/Allowed/",
+      "size": 4623,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/Allowed/RANDOM2.grp",
+      "gpu": "all"
+    },
+    {
+      "name": "R_Norm.ped",
+      "path": "/data/Decision/Allowed/",
+      "size": 6450,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/Allowed/R_Norm.ped",
+      "gpu": "all"
+    },
+    {
+      "name": "R_Tough.ped",
+      "path": "/data/Decision/Allowed/",
+      "size": 6378,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/Allowed/R_Tough.ped",
+      "gpu": "all"
+    },
+    {
+      "name": "R_Weak.ped",
+      "path": "/data/Decision/Allowed/",
+      "size": 6289,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/Allowed/R_Weak.ped",
+      "gpu": "all"
+    },
+    {
+      "name": "m_empty.ped",
+      "path": "/data/Decision/Allowed/",
+      "size": 982,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/Allowed/m_empty.ped",
+      "gpu": "all"
+    },
+    {
+      "name": "m_norm.ped",
+      "path": "/data/Decision/Allowed/",
+      "size": 4142,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/Allowed/m_norm.ped",
+      "gpu": "all"
+    },
+    {
+      "name": "m_plyr.ped",
+      "path": "/data/Decision/Allowed/",
+      "size": 2000,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/Allowed/m_plyr.ped",
+      "gpu": "all"
+    },
+    {
+      "name": "m_steal.ped",
+      "path": "/data/Decision/Allowed/",
+      "size": 3663,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/Allowed/m_steal.ped",
+      "gpu": "all"
+    },
+    {
+      "name": "m_tough.ped",
+      "path": "/data/Decision/Allowed/",
+      "size": 3980,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/Allowed/m_tough.ped",
+      "gpu": "all"
+    },
+    {
+      "name": "m_weak.ped",
+      "path": "/data/Decision/Allowed/",
+      "size": 4062,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/Decision/Allowed/m_weak.ped",
+      "gpu": "all"
+    },
+    {
+      "name": "Audiozon.ipl",
+      "path": "/data/maps/",
+      "size": 10802,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/Audiozon.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "cull.ipl",
+      "path": "/data/maps/",
+      "size": 104318,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/cull.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "occlu.ipl",
+      "path": "/data/maps/",
+      "size": 1012,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/occlu.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "occluLA.ipl",
+      "path": "/data/maps/",
+      "size": 35956,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/occluLA.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "occluint.ipl",
+      "path": "/data/maps/",
+      "size": 2338,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/occluint.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "occlusf.ipl",
+      "path": "/data/maps/",
+      "size": 16114,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/occlusf.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "occluveg.ipl",
+      "path": "/data/maps/",
+      "size": 17944,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/occluveg.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "paths.ipl",
+      "path": "/data/maps/",
+      "size": 2658607,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/paths.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "paths2.ipl",
+      "path": "/data/maps/",
+      "size": 2292241,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/paths2.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "paths3.ipl",
+      "path": "/data/maps/",
+      "size": 2428066,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/paths3.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "paths4.ipl",
+      "path": "/data/maps/",
+      "size": 253014,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/paths4.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "paths5.ipl",
+      "path": "/data/maps/",
+      "size": 457678,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/paths5.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "tunnels.ipl",
+      "path": "/data/maps/",
+      "size": 3230,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/tunnels.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "LAe.ide",
+      "path": "/data/maps/LA/",
+      "size": 12249,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAe.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "LAe.ipl",
+      "path": "/data/maps/LA/",
+      "size": 27328,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAe.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "LAe2.ide",
+      "path": "/data/maps/LA/",
+      "size": 21907,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAe2.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "LAe2.ipl",
+      "path": "/data/maps/LA/",
+      "size": 33651,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAe2.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "LAhills.ide",
+      "path": "/data/maps/LA/",
+      "size": 10601,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAhills.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "LAhills.ipl",
+      "path": "/data/maps/LA/",
+      "size": 34506,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAhills.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "LAn.ide",
+      "path": "/data/maps/LA/",
+      "size": 11107,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAn.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "LAn.ipl",
+      "path": "/data/maps/LA/",
+      "size": 14264,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAn.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "LAn2.ide",
+      "path": "/data/maps/LA/",
+      "size": 9565,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAn2.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "LAn2.ipl",
+      "path": "/data/maps/LA/",
+      "size": 13185,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAn2.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "LAs.ide",
+      "path": "/data/maps/LA/",
+      "size": 12575,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAs.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "LAs.ipl",
+      "path": "/data/maps/LA/",
+      "size": 22414,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAs.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "LAs2.ide",
+      "path": "/data/maps/LA/",
+      "size": 12364,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAs2.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "LAs2.ipl",
+      "path": "/data/maps/LA/",
+      "size": 38441,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAs2.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "LAw.ide",
+      "path": "/data/maps/LA/",
+      "size": 9412,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAw.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "LAw.ipl",
+      "path": "/data/maps/LA/",
+      "size": 15105,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAw.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "LAw2.ide",
+      "path": "/data/maps/LA/",
+      "size": 11060,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAw2.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "LAw2.ipl",
+      "path": "/data/maps/LA/",
+      "size": 18232,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAw2.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "LAxref.ide",
+      "path": "/data/maps/LA/",
+      "size": 10477,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LAxref.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "LaWn.ide",
+      "path": "/data/maps/LA/",
+      "size": 13092,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LaWn.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "LaWn.ipl",
+      "path": "/data/maps/LA/",
+      "size": 24330,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/LA/LaWn.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "SFSe.ide",
+      "path": "/data/maps/SF/",
+      "size": 30227,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/SF/SFSe.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "SFSe.ipl",
+      "path": "/data/maps/SF/",
+      "size": 53359,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/SF/SFSe.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "SFe.ide",
+      "path": "/data/maps/SF/",
+      "size": 16224,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/SF/SFe.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "SFe.ipl",
+      "path": "/data/maps/SF/",
+      "size": 26707,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/SF/SFe.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "SFn.ide",
+      "path": "/data/maps/SF/",
+      "size": 11219,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/SF/SFn.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "SFn.ipl",
+      "path": "/data/maps/SF/",
+      "size": 26201,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/SF/SFn.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "SFs.ide",
+      "path": "/data/maps/SF/",
+      "size": 18948,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/SF/SFs.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "SFs.ipl",
+      "path": "/data/maps/SF/",
+      "size": 37969,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/SF/SFs.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "SFw.ide",
+      "path": "/data/maps/SF/",
+      "size": 16473,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/SF/SFw.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "SFw.ipl",
+      "path": "/data/maps/SF/",
+      "size": 29247,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/SF/SFw.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "SFxref.ide",
+      "path": "/data/maps/SF/",
+      "size": 4631,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/SF/SFxref.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "countn2.ide",
+      "path": "/data/maps/country/",
+      "size": 35439,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/country/countn2.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "countn2.ipl",
+      "path": "/data/maps/country/",
+      "size": 41665,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/country/countn2.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "countryN.ide",
+      "path": "/data/maps/country/",
+      "size": 11308,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/country/countryN.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "countryN.ipl",
+      "path": "/data/maps/country/",
+      "size": 14407,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/country/countryN.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "countryS.ide",
+      "path": "/data/maps/country/",
+      "size": 18450,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/country/countryS.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "countryS.ipl",
+      "path": "/data/maps/country/",
+      "size": 33835,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/country/countryS.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "countryW.ide",
+      "path": "/data/maps/country/",
+      "size": 19704,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/country/countryW.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "countrye.ide",
+      "path": "/data/maps/country/",
+      "size": 34529,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/country/countrye.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "countrye.ipl",
+      "path": "/data/maps/country/",
+      "size": 49301,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/country/countrye.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "countryw.ipl",
+      "path": "/data/maps/country/",
+      "size": 35057,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/country/countryw.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "counxref.ide",
+      "path": "/data/maps/country/",
+      "size": 8494,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/country/counxref.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "barriers.ide",
+      "path": "/data/maps/generic/",
+      "size": 1437,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/generic/barriers.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "dynamic.ide",
+      "path": "/data/maps/generic/",
+      "size": 4611,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/generic/dynamic.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "dynamic2.ide",
+      "path": "/data/maps/generic/",
+      "size": 10510,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/generic/dynamic2.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "multiobj.ide",
+      "path": "/data/maps/generic/",
+      "size": 5020,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/generic/multiobj.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "procobj.ide",
+      "path": "/data/maps/generic/",
+      "size": 4755,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/generic/procobj.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "vegepart.ide",
+      "path": "/data/maps/generic/",
+      "size": 8062,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/generic/vegepart.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "gen_int1.ide",
+      "path": "/data/maps/interior/",
+      "size": 2747,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/gen_int1.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "gen_int1.ipl",
+      "path": "/data/maps/interior/",
+      "size": 21074,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/gen_int1.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "gen_int2.ide",
+      "path": "/data/maps/interior/",
+      "size": 10941,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/gen_int2.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "gen_int2.ipl",
+      "path": "/data/maps/interior/",
+      "size": 1683,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/gen_int2.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "gen_int3.ide",
+      "path": "/data/maps/interior/",
+      "size": 3252,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/gen_int3.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "gen_int3.ipl",
+      "path": "/data/maps/interior/",
+      "size": 2091,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/gen_int3.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "gen_int4.ide",
+      "path": "/data/maps/interior/",
+      "size": 2323,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/gen_int4.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "gen_int4.ipl",
+      "path": "/data/maps/interior/",
+      "size": 1185,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/gen_int4.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "gen_int5.ide",
+      "path": "/data/maps/interior/",
+      "size": 4682,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/gen_int5.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "gen_int5.ipl",
+      "path": "/data/maps/interior/",
+      "size": 2988,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/gen_int5.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "gen_intb.ide",
+      "path": "/data/maps/interior/",
+      "size": 5459,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/gen_intb.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "gen_intb.ipl",
+      "path": "/data/maps/interior/",
+      "size": 1626,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/gen_intb.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "int_LA.ide",
+      "path": "/data/maps/interior/",
+      "size": 6004,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/int_LA.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "int_LA.ipl",
+      "path": "/data/maps/interior/",
+      "size": 1312,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/int_LA.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "int_SF.ide",
+      "path": "/data/maps/interior/",
+      "size": 1260,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/int_SF.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "int_SF.ipl",
+      "path": "/data/maps/interior/",
+      "size": 1334,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/int_SF.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "int_cont.ide",
+      "path": "/data/maps/interior/",
+      "size": 385,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/int_cont.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "int_cont.ipl",
+      "path": "/data/maps/interior/",
+      "size": 910,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/int_cont.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "int_veg.ide",
+      "path": "/data/maps/interior/",
+      "size": 4684,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/int_veg.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "int_veg.ipl",
+      "path": "/data/maps/interior/",
+      "size": 5299,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/int_veg.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "propext.ide",
+      "path": "/data/maps/interior/",
+      "size": 2340,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/propext.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "props.ide",
+      "path": "/data/maps/interior/",
+      "size": 26326,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/props.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "props2.ide",
+      "path": "/data/maps/interior/",
+      "size": 21174,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/props2.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "savehous.ide",
+      "path": "/data/maps/interior/",
+      "size": 1724,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/savehous.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "savehous.ipl",
+      "path": "/data/maps/interior/",
+      "size": 2959,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/savehous.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "stadint.ide",
+      "path": "/data/maps/interior/",
+      "size": 2851,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/stadint.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "stadint.ipl",
+      "path": "/data/maps/interior/",
+      "size": 6299,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/interior/stadint.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "leveldes.ide",
+      "path": "/data/maps/leveldes/",
+      "size": 360,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/leveldes/leveldes.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "leveldes.ipl",
+      "path": "/data/maps/leveldes/",
+      "size": 165,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/leveldes/leveldes.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "levelmap.ide",
+      "path": "/data/maps/leveldes/",
+      "size": 3194,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/leveldes/levelmap.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "levelmap.ipl",
+      "path": "/data/maps/leveldes/",
+      "size": 4675,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/leveldes/levelmap.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "levelxre.ide",
+      "path": "/data/maps/leveldes/",
+      "size": 9897,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/leveldes/levelxre.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "seabed.ide",
+      "path": "/data/maps/leveldes/",
+      "size": 12039,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/leveldes/seabed.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "seabed.ipl",
+      "path": "/data/maps/leveldes/",
+      "size": 23342,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/leveldes/seabed.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "VegasN.ide",
+      "path": "/data/maps/vegas/",
+      "size": 23715,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/vegas/VegasN.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "VegasS.ide",
+      "path": "/data/maps/vegas/",
+      "size": 18656,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/vegas/VegasS.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "VegasW.ide",
+      "path": "/data/maps/vegas/",
+      "size": 25456,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/vegas/VegasW.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "vegasE.ide",
+      "path": "/data/maps/vegas/",
+      "size": 35542,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/vegas/vegasE.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "vegasE.ipl",
+      "path": "/data/maps/vegas/",
+      "size": 61084,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/vegas/vegasE.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "vegasN.ipl",
+      "path": "/data/maps/vegas/",
+      "size": 36651,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/vegas/vegasN.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "vegasS.ipl",
+      "path": "/data/maps/vegas/",
+      "size": 30343,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/vegas/vegasS.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "vegasW.ipl",
+      "path": "/data/maps/vegas/",
+      "size": 49867,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/vegas/vegasW.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "vegaxref.ide",
+      "path": "/data/maps/vegas/",
+      "size": 5751,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/vegas/vegaxref.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "vegaxref.ipl",
+      "path": "/data/maps/vegas/",
+      "size": 3661,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/vegas/vegaxref.ipl",
+      "gpu": "all"
+    },
+    {
+      "name": "veh_mods.ide",
+      "path": "/data/maps/veh_mods/",
+      "size": 7323,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/maps/veh_mods/veh_mods.ide",
+      "gpu": "all"
+    },
+    {
+      "name": "ROADBLOX.DAT",
+      "path": "/data/paths/",
+      "size": 1304,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/paths/ROADBLOX.DAT",
+      "gpu": "all"
+    },
+    {
+      "name": "carrec.img",
+      "path": "/data/paths/",
+      "size": 2357248,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/paths/carrec.img",
+      "gpu": "all"
+    },
+    {
+      "name": "tracks.dat",
+      "path": "/data/paths/",
+      "size": 25474,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/paths/tracks.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "tracks2.dat",
+      "path": "/data/paths/",
+      "size": 1892,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/paths/tracks2.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "tracks3.dat",
+      "path": "/data/paths/",
+      "size": 8328,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/paths/tracks3.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "tracks4.dat",
+      "path": "/data/paths/",
+      "size": 18347,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/paths/tracks4.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "mainV1.scm",
+      "path": "/data/script/",
+      "size": 3169778,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/script/mainV1.scm",
+      "gpu": "all"
+    },
+    {
+      "name": "scriptv1.img",
+      "path": "/data/script/",
+      "size": 561152,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/data/script/scriptv1.img",
+      "gpu": "all"
+    },
+    {
+      "name": "arial.ttf",
+      "path": "/fonts/",
+      "size": 367112,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/fonts/arial.ttf",
+      "gpu": "all"
+    },
+    {
+      "name": "arial_bold.ttf",
+      "path": "/fonts/",
+      "size": 352224,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/fonts/arial_bold.ttf",
+      "gpu": "all"
+    },
+    {
+      "name": "georgia.ttf",
+      "path": "/fonts/",
+      "size": 219712,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/fonts/georgia.ttf",
+      "gpu": "all"
+    },
+    {
+      "name": "gtaweap3.ttf",
+      "path": "/fonts/",
+      "size": 104004,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/fonts/gtaweap3.ttf",
+      "gpu": "all"
+    },
+    {
+      "name": "impact.ttf",
+      "path": "/fonts/",
+      "size": 206784,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/fonts/impact.ttf",
+      "gpu": "all"
+    },
+    {
+      "name": "palatino_linotype.ttf",
+      "path": "/fonts/",
+      "size": 489884,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/fonts/palatino_linotype.ttf",
+      "gpu": "all"
+    },
+    {
+      "name": "quartz_ms.ttf",
+      "path": "/fonts/",
+      "size": 51032,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/fonts/quartz_ms.ttf",
+      "gpu": "all"
+    },
+    {
+      "name": "segoe_print.ttf",
+      "path": "/fonts/",
+      "size": 172448,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/fonts/segoe_print.ttf",
+      "gpu": "all"
+    },
+    {
+      "name": "segoe_script.ttf",
+      "path": "/fonts/",
+      "size": 620204,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/fonts/segoe_script.ttf",
+      "gpu": "all"
+    },
+    {
+      "name": "tahoma.ttf",
+      "path": "/fonts/",
+      "size": 939280,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/fonts/tahoma.ttf",
+      "gpu": "all"
+    },
+    {
+      "name": "webdings.ttf",
+      "path": "/fonts/",
+      "size": 120560,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/fonts/webdings.ttf",
+      "gpu": "all"
+    },
+    {
+      "name": "wingding.ttf",
+      "path": "/fonts/",
+      "size": 82180,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/fonts/wingding.ttf",
+      "gpu": "all"
+    },
+    {
+      "name": "MINFO.BIN",
+      "path": "/models/",
+      "size": 41100,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/models/MINFO.BIN",
+      "gpu": "all"
+    },
+    {
+      "name": "effects.fxp",
+      "path": "/models/",
+      "size": 616708,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/models/effects.fxp",
+      "gpu": "all"
+    },
+    {
+      "name": "peds.col",
+      "path": "/models/coll/",
+      "size": 21477,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/models/coll/peds.col",
+      "gpu": "all"
+    },
+    {
+      "name": "vehicles.col",
+      "path": "/models/coll/",
+      "size": 1096,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/models/coll/vehicles.col",
+      "gpu": "all"
+    },
+    {
+      "name": "weapons.col",
+      "path": "/models/coll/",
+      "size": 560,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/models/coll/weapons.col",
+      "gpu": "all"
+    },
+    {
+      "name": "SAMPCOL.img",
+      "path": "/texdb/",
+      "size": 4253696,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/SAMPCOL.img",
+      "gpu": "all"
+    },
+    {
+      "name": "gta3.img",
+      "path": "/texdb/",
+      "size": 283521024,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/gta3.img",
+      "gpu": "all"
+    },
+    {
+      "name": "gta_int.img",
+      "path": "/texdb/",
+      "size": 44836864,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/gta_int.img",
+      "gpu": "all"
+    },
+    {
+      "name": "player.img",
+      "path": "/texdb/",
+      "size": 16412672,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/player.img",
+      "gpu": "all"
+    },
+    {
+      "name": "samp.img",
+      "path": "/texdb/",
+      "size": 36902912,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/samp.img",
+      "gpu": "all"
+    },
+    {
+      "name": "gta3.pvr.dat",
+      "path": "/texdb/gta3/",
+      "size": 115205762,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/gta3/gta3.pvr.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "gta3.pvr.tmb",
+      "path": "/texdb/gta3/",
+      "size": 794396,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/gta3/gta3.pvr.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "gta3.pvr.toc",
+      "path": "/texdb/gta3/",
+      "size": 49784,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/gta3/gta3.pvr.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "gta3.txt",
+      "path": "/texdb/gta3/",
+      "size": 792665,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/gta3/gta3.txt",
+      "gpu": "all"
+    },
+    {
+      "name": "gta3.unc.tmb",
+      "path": "/texdb/gta3/",
+      "size": 1457212,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/gta3/gta3.unc.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "gta_int.pvr.dat",
+      "path": "/texdb/gta_int/",
+      "size": 9466002,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/gta_int/gta_int.pvr.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "gta_int.pvr.tmb",
+      "path": "/texdb/gta_int/",
+      "size": 663408,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/gta_int/gta_int.pvr.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "gta_int.pvr.toc",
+      "path": "/texdb/gta_int/",
+      "size": 10132,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/gta_int/gta_int.pvr.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "gta_int.txt",
+      "path": "/texdb/gta_int/",
+      "size": 174099,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/gta_int/gta_int.txt",
+      "gpu": "all"
+    },
+    {
+      "name": "gta_int.unc.tmb",
+      "path": "/texdb/gta_int/",
+      "size": 663408,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/gta_int/gta_int.unc.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "menu.dxt.dat",
+      "path": "/texdb/menu/",
+      "size": 5187414,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/menu/menu.dxt.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "menu.dxt.tmb",
+      "path": "/texdb/menu/",
+      "size": 992,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/menu/menu.dxt.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "menu.dxt.toc",
+      "path": "/texdb/menu/",
+      "size": 176,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/menu/menu.dxt.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "menu.etc.dat",
+      "path": "/texdb/menu/",
+      "size": 6472908,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/menu/menu.etc.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "menu.etc.tmb",
+      "path": "/texdb/menu/",
+      "size": 992,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/menu/menu.etc.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "menu.etc.toc",
+      "path": "/texdb/menu/",
+      "size": 176,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/menu/menu.etc.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "menu.pvr.dat",
+      "path": "/texdb/menu/",
+      "size": 6472908,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/menu/menu.pvr.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "menu.pvr.tmb",
+      "path": "/texdb/menu/",
+      "size": 992,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/menu/menu.pvr.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "menu.pvr.toc",
+      "path": "/texdb/menu/",
+      "size": 176,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/menu/menu.pvr.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "menu.txt",
+      "path": "/texdb/menu/",
+      "size": 3147,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/menu/menu.txt",
+      "gpu": "all"
+    },
+    {
+      "name": "menu.unc.tmb",
+      "path": "/texdb/menu/",
+      "size": 992,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/menu/menu.unc.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "mobile.pvr.dat",
+      "path": "/texdb/mobile/",
+      "size": 8712314,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/mobile/mobile.pvr.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "mobile.pvr.tmb",
+      "path": "/texdb/mobile/",
+      "size": 3940,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/mobile/mobile.pvr.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "mobile.pvr.toc",
+      "path": "/texdb/mobile/",
+      "size": 792,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/mobile/mobile.pvr.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "mobile.txt",
+      "path": "/texdb/mobile/",
+      "size": 14502,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/mobile/mobile.txt",
+      "gpu": "all"
+    },
+    {
+      "name": "mobile.unc.tmb",
+      "path": "/texdb/mobile/",
+      "size": 3940,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/mobile/mobile.unc.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "player.pvr.dat",
+      "path": "/texdb/player/",
+      "size": 6569414,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/player/player.pvr.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "player.pvr.tmb",
+      "path": "/texdb/player/",
+      "size": 6940,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/player/player.pvr.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "player.pvr.toc",
+      "path": "/texdb/player/",
+      "size": 1580,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/player/player.pvr.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "player.txt",
+      "path": "/texdb/player/",
+      "size": 27810,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/player/player.txt",
+      "gpu": "all"
+    },
+    {
+      "name": "playerhi.pvr.dat",
+      "path": "/texdb/playerhi/",
+      "size": 27658902,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/playerhi/playerhi.pvr.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "playerhi.pvr.tmb",
+      "path": "/texdb/playerhi/",
+      "size": 6940,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/playerhi/playerhi.pvr.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "playerhi.pvr.toc",
+      "path": "/texdb/playerhi/",
+      "size": 1580,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/playerhi/playerhi.pvr.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "playerhi.txt",
+      "path": "/texdb/playerhi/",
+      "size": 28087,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/playerhi/playerhi.txt",
+      "gpu": "all"
+    },
+    {
+      "name": "samp.dxt.dat",
+      "path": "/texdb/samp/",
+      "size": 22144848,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/samp/samp.dxt.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "samp.dxt.tmb",
+      "path": "/texdb/samp/",
+      "size": 21376,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/samp/samp.dxt.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "samp.dxt.toc",
+      "path": "/texdb/samp/",
+      "size": 6176,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/samp/samp.dxt.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "samp.etc.dat",
+      "path": "/texdb/samp/",
+      "size": 33279656,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/samp/samp.etc.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "samp.etc.tmb",
+      "path": "/texdb/samp/",
+      "size": 21376,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/samp/samp.etc.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "samp.etc.toc",
+      "path": "/texdb/samp/",
+      "size": 6176,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/samp/samp.etc.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "samp.pvr.dat",
+      "path": "/texdb/samp/",
+      "size": 13894248,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/samp/samp.pvr.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "samp.pvr.tmb",
+      "path": "/texdb/samp/",
+      "size": 21376,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/samp/samp.pvr.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "samp.pvr.toc",
+      "path": "/texdb/samp/",
+      "size": 6176,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/samp/samp.pvr.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "samp.txt",
+      "path": "/texdb/samp/",
+      "size": 89582,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/samp/samp.txt",
+      "gpu": "all"
+    },
+    {
+      "name": "samp.unc.dat",
+      "path": "/texdb/samp/",
+      "size": 33150952,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/samp/samp.unc.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "samp.unc.tmb",
+      "path": "/texdb/samp/",
+      "size": 22528,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/samp/samp.unc.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "samp.unc.toc",
+      "path": "/texdb/samp/",
+      "size": 6156,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/samp/samp.unc.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "txd.360.dat",
+      "path": "/texdb/txd/",
+      "size": 7625578,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/txd/txd.360.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "txd.360.tmb",
+      "path": "/texdb/txd/",
+      "size": 31028,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/txd/txd.360.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "txd.360.toc",
+      "path": "/texdb/txd/",
+      "size": 2376,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/txd/txd.360.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "txd.pvr.dat",
+      "path": "/texdb/txd/",
+      "size": 7716880,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/txd/txd.pvr.dat",
+      "gpu": "all"
+    },
+    {
+      "name": "txd.pvr.tmb",
+      "path": "/texdb/txd/",
+      "size": 25204,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/txd/txd.pvr.tmb",
+      "gpu": "all"
+    },
+    {
+      "name": "txd.pvr.toc",
+      "path": "/texdb/txd/",
+      "size": 2376,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/txd/txd.pvr.toc",
+      "gpu": "all"
+    },
+    {
+      "name": "txd.txt",
+      "path": "/texdb/txd/",
+      "size": 43193,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/txd/txd.txt",
+      "gpu": "all"
+    },
+    {
+      "name": "txd.unc.tmb",
+      "path": "/texdb/txd/",
+      "size": 59636,
+      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/texdb/txd/txd.unc.tmb",
+      "gpu": "all"
+    }
+  ]
+}
