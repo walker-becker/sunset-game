@@ -15,13 +15,6 @@
       "gpu": "all"
     },
     {
-      "name": "GTASAMP10.b",
-      "path": "/",
-      "size": 0,
-      "url": "https://raw.githubusercontent.com/walker-becker/sunset-game/main/GTASAMP10.b",
-      "gpu": "all"
-    },
-    {
       "name": "gta_sa.set",
       "path": "/",
       "size": 167,
